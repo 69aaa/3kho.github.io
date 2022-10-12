@@ -338,6 +338,7 @@ say[338] = "Buying $GME Stock...";
 say[339] = "Preordering tickets to Disney's 2021 Cruella";
 say[340] = "Search results show you may have the black plague.";
 say[341] = "amogus";
+say[342] = "Funyuns are the greatest";
 
 // pick a random greeting
 var howmany = say.length;

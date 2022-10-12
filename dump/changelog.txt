@@ -24,6 +24,7 @@ Oct, 12
 + Added Sleeping beauty
 + Added Black hole square
 + Added A Dark Room
+^ Added more splash texts
 ------------------------------------------------------------
 Oct, 11
 + Added xx142-b2exe
