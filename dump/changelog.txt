@@ -17,6 +17,19 @@ NOTE: Make sure you refresh the page! Sometimes you will not get the lastest upd
 ^ Means something was upgraded or changed
 - Means something was removed
 ------------------------------------------------------------
+Oct, 12
++ Added Dante
++ Added SHUTTLEDECK
++ Added Edge Lets surf
++ Added Ninja vs Evil Corp
++ Added Sleeping beauty
++ Added Black hole square
++ Added A Dark Room
+^ Added more splash texts
+------------------------------------------------------------
+Oct, 11
++ Added xx142-b2exe
+------------------------------------------------------------
 Oct, 9
 + Added Dragons vs Bricks
 + Added Gravity Soccer
