@@ -21,6 +21,7 @@ Oct, 13
 + Added Rabbit Samurai
 + Added Rabbit Samurai 2
 ^ Added more splash texts
+^ Added more reviews
 ------------------------------------------------------------
 Oct, 12
 + Added Dante
