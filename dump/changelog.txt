@@ -17,8 +17,49 @@ NOTE: Make sure you refresh the page! Sometimes you will not get the lastest upd
 ^ Means something was upgraded or changed
 - Means something was removed
 ------------------------------------------------------------
+Oct, 13
++ Added Space Garden
++ Added Rabbit Samurai
++ Added Rabbit Samurai 2
+^ Added more splash texts
+^ Added more reviews
+------------------------------------------------------------
+Oct, 12
++ Added Dante
++ Added SHUTTLEDECK
++ Added Edge Lets surf
++ Added Ninja vs Evil Corp
++ Added Sleeping beauty
++ Added Black hole square
++ Added A Dark Room
+^ Added more splash texts
+------------------------------------------------------------
+Oct, 11
++ Added xx142-b2exe
+------------------------------------------------------------
+Oct, 10
+^ Added more splash texts
+------------------------------------------------------------
+Oct, 9
++ Added Dragons vs Bricks
++ Added Gravity Soccer
++ Added Go Ball
++ Added Slope Ball
++ Added X Trial Racing
++ Added even more reviews (please keep it coming!)
+------------------------------------------------------------
+Oct, 7
+- Removed fish client
+------------------------------------------------------------
+Oct, 5
+^ Added more splash texts
+------------------------------------------------------------
 Oct, 4
 + Added Stickman boost
+^ Added more splash texts
+------------------------------------------------------------
+Oct, 2
+^ Added more splash texts
 ------------------------------------------------------------
 Oct, 1
 + Added 2048 Multitask
