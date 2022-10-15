@@ -17,6 +17,9 @@ NOTE: Make sure you refresh the page! Sometimes you will not get the lastest upd
 ^ Means something was upgraded or changed
 - Means something was removed
 ------------------------------------------------------------
+Oct, 14
+^ Fixed a bug
+------------------------------------------------------------
 Oct, 13
 + Added Space Garden
 + Added Rabbit Samurai
