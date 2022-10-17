@@ -26,8 +26,8 @@
     </script>
     <div class="text-center">
       <input type="text" class="text-center" id="mySearch" onload="startSearch()" onkeyup="startSearch()" placeholder="Search for games..." title="Search" autofocus>
-      <select id="select">
-        <option value="n/a"></option>
+      <select id="select" class="text-center" onload="startSearch()" onchange="startSearch()">
+        <option value="n/a">-</option>
         <option value="hot">🔥 Hot</option>
         <option value="new">☀ New</option>
       </select>
