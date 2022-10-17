@@ -158,7 +158,7 @@ button, input[type="submit"], input[type="reset"] {
     text-shadow: 0.5px 1px 4px #000000;
     color: rgba(255, 255, 255, 0.75);
     border: 1px solid #797979;
-    margin: 0px 5px 5px 5px;
+    margin: 0px 5px 5px;
     font-variant: small-caps;
 }
 #controls button.bright {
@@ -197,7 +197,7 @@ button, input[type="submit"], input[type="reset"] {
     float:right;
 }
 #stats {
-    margin: 0px 5px 5px 5px;
+    margin: 0px 5px 5px;
     font-size: 0.75em;
     height: 2em;
     width:100%;
