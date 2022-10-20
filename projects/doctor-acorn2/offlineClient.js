@@ -8,4 +8,4 @@ _OnBroadcastChannelMessage(e)
 this._queuedMessages.push(e);}
 SetMessageCallback(f)
 {this._onMessageCallback=f;for(let e of this._queuedMessages)
-this._onMessageCallback(e);this._queuedMessages.length=0;}};window.OfflineClientInfo=new OfflineClient();}());
+this._onMessageCallback(e);this._queuedMessages.length=0;}}window.OfflineClientInfo=new OfflineClient();}());
