@@ -185,3 +185,20 @@ h3 {
 }
 
 .fa {font-size:50px;}
+
+div.fixed {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 25px;
+  height: 25px;
+  border-radius: 0px 0px 0px 10px;
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+.fa-gear {
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px
+}
