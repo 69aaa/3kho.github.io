@@ -21,6 +21,8 @@ Oct, 20
 + Added Doctor Acorn 2
 + Added Twitch Tetris
 + Added quick access to site settings
+^ Improved the 404 page with more fun stats
+- Removed the ip request on 404 page
 ------------------------------------------------------------
 Oct, 19
 ^ Added more reviews
