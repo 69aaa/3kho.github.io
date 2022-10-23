@@ -40,6 +40,9 @@ Below are some of the options you can use to deploy your own copy of the site. *
 > **Note**
 > If you have any problems please open a issue!
 
+> **Note**
+> The option to deploy with Replit has been removed due to the fact that this repo exceedes the limit for size on replit. Even if you have the hacker plan, it is still too large. 
+
 ## Contributers
 
 Thank you to all of these amazing people for helping work on this project!
