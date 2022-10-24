@@ -17,6 +17,24 @@ NOTE: Make sure you refresh the page! Sometimes you will not get the lastest upd
 ^ Means something was upgraded or changed
 - Means something was removed
 ------------------------------------------------------------
+Oct, 23
++ Added Fire Boy and Water Girl
++ Added Super Mario Construct
++ Added Yoshi's Fabrication Station
+------------------------------------------------------------
+Oct, 20
++ Added Doctor Acorn 2
++ Added Twitch Tetris
++ Added quick access to site settings
+^ Improved the 404 page with more fun stats
+- Removed the ip request on 404 page
+------------------------------------------------------------
+Oct, 19
+^ Added more reviews
+------------------------------------------------------------
+Oct, 17
++ Added Sandboxels
+------------------------------------------------------------
 Oct, 14
 ^ Fixed a bug
 ------------------------------------------------------------

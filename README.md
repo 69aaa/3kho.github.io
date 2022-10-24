@@ -40,6 +40,9 @@ Below are some of the options you can use to deploy your own copy of the site. *
 > **Note**
 > If you have any problems please open a issue!
 
+> **Note**
+> The option to deploy with Replit has been removed due to the fact that this repo exceedes the limit for size on replit. Even if you have the hacker plan, it is still too large. 
+
 ## Contributers
 
 Thank you to all of these amazing people for helping work on this project!
@@ -109,3 +112,17 @@ sense, this is v3
 
 - [Website v1](https://github.com/3kh0/website-v1)
 - [Website v2](https://github.com/3kh0/website-v2)
+
+## More badges
+
+[![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-pull-requests.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
