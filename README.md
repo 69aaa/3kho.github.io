@@ -31,6 +31,7 @@ You can access this project using the link below
 
 Below are some of the options you can use to deploy your own copy of the site. **If you do not know what you are doing, it is suggested that you use a link someone is currently hosting!**
 
+[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://github.com/3kh0/3kh0.github.io-replit)
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/3kh0/3kh0.github.io)
 [![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F3kh0%2F3kh0.github.io) 
 [![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/3kh0/3kh0.github.io)
@@ -39,9 +40,6 @@ Below are some of the options you can use to deploy your own copy of the site. *
 
 > **Note**
 > If you have any problems please open a issue!
-
-> **Note**
-> The option to deploy with Replit has been removed due to the fact that this repo exceedes the limit for size on replit. Even if you have the hacker plan, it is still too large. 
 
 ## Contributers
 
