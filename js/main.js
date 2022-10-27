@@ -29,18 +29,19 @@ if (gaenabled == "false") {
       gtag('js', new Date());
       gtag('config', 'G-98DP5VKS42');`;
   document.head.append(gascript, inlinegascript);
-  script("Injected script 1/3");
+  script("Injected script 1/4");
 }
 
 const tabCloak = document.createElement("script");
 tabCloak.setAttribute("src", "/js/tab_cloak.js");
 document.head.append(tabCloak);
-script("Injected script 2/3");
+script("Injected script 2/4");
 
-//const notify = document.createElement("script");
-//notify.setAttribute("src", "/js/notify.js");
-//document.head.append(notify);
-script("Injected script 3/3");
+const arc = document.createElement("script");
+arc.setAttribute("async", "");
+arc.setAttribute("src", "https://arc.io/widget.min.js#eRPHFgiC");
+document.head.append(arc);
+script("Injected script 3/4");
 
 const adblock = document.createElement("script");
 adblock.setAttribute("src", "https://fundingchoicesmessages.google.com/i/pub-5756835229788588?ers=1");
