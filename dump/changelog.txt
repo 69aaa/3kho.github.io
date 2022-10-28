@@ -17,6 +17,17 @@ NOTE: Make sure you refresh the page! Sometimes you will not get the lastest upd
 ^ Means something was upgraded or changed
 - Means something was removed
 ------------------------------------------------------------
+Oct, 28
++ Added Flippy Fish
++ Added Frying Nemo
+------------------------------------------------------------
+Oct, 27
++ Added Offline Paradise
++ Added Replit Deployment!
+------------------------------------------------------------
+Oct, 24
++ Added more reviews
+------------------------------------------------------------
 Oct, 23
 + Added Fire Boy and Water Girl
 + Added Super Mario Construct
