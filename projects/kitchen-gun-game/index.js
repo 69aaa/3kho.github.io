@@ -94,7 +94,8 @@ var Engine = {
         xhr.send(null);
       };
       setWindowTitle = function (title) {
-        document.title = title;
+        console.log(title + " was set to the title")
+        document.title = "Kitchen gun game | 3kh0";
       };
     } else {
     }
