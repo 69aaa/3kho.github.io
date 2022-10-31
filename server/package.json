@@ -10,7 +10,7 @@
   "author": "3kh0 and retronbv",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^1.11.7",
+    "@types/node": "^18.11.8",
     "express": "^3.18.2",
     "node-fetch": "^1.2.10",
     "kuler": "^1.0.0"
